@@ -1,6 +1,6 @@
 # All My Exes
 
-All My Exes actually has nothing to do with Texas but RegExp is fun so what the heck-sas?
+All My Exes actually has nothing to do with Texas but regular expressions are fun so what the heck-sas?
 
 ## Description
 
