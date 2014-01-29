@@ -21,4 +21,6 @@ In this exercise you will solve a number of challenges for pattern matching in s
 
 4. Write a function that takes in any URL string as input and returns the entire URL received as is with only the domain name replaced with a domain name of your choosing.
 
-5. BONUS: Write a function that takes in any URL with 3 query string parameters and returns a URL as a tokenized path using the parameter values. Ex. www.myexample.com?param1=test&param2=me&param3=out => www.myexample.com/test/me/out
+5. Copy the source of [www.devleague.com](www.devleague.com) and paste into you Sublime Text editor. Using the RegEx matching tool write a regular expression that matches all element attributes and their values as a single match per attribute.
+
+6. BONUS: Write a function that takes in any URL with 3 query string parameters and returns a URL as a tokenized path using the parameter values. Ex. www.myexample.com?param1=test&param2=me&param3=out => www.myexample.com/test/me/out
